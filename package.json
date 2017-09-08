@@ -6,5 +6,19 @@
     "name": "Sirwali Joseph",
     "email": "mulavhe@gmail.com",
     "url": "https://uzzie.xyz"
-  }
+  },
+  "main": "default.d.ts",
+  "types": "default.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lavhe/Typescript-Declarations.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.comLavhe/Typescript-Declarations/issues"
+  },
 }
