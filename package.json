@@ -1,6 +1,6 @@
 {
   "name": "@types/default",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Contains basic typescript declarations",
   "main": "default.d.ts",
   "types": "default.d.ts",
