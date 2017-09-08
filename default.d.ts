@@ -1,1 +1,1 @@
-declare var require(value:string):any
+declare function require(value:string):any
