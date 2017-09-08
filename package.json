@@ -1,1 +1,10 @@
-
+{
+  "name": "Typescript-Declarations",
+  "version": "0.0.1",
+  "description": "Contains basic typescript declarations",
+  "author": {
+    "name": "Sirwali Joseph",
+    "email": "mulavhe@gmail.com",
+    "url": "https://uzzie.xyz"
+  }
+}
